@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+#Hello
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'carzone.settings')
     try:
